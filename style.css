@@ -1,5 +1,5 @@
 body{
-    background-color: gray;
+    background-color: #DCDCDC;
 }
 
 h1{
@@ -11,7 +11,7 @@ h1{
 p{
     color:orange;
     font-family:'Times New Roman', Times, serif;
-    background: blue;
-    font-size: 100px;
+    background:#8fbc8f;
+    font-size: 30px;
 
 }
